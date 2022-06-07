@@ -15,3 +15,5 @@
 [Superstore Dataset](https://drive.google.com/file/d/13Gh9JOcK44iFw6H2Lp-c57SDATdexaxs/view?usp=sharing)
 
 [Housing Dataset](https://drive.google.com/file/d/1CeFptK7xc9lJEcAVGxG4_249UUVmYPGu/view?usp=sharing)
+
+[Bank Dataset](https://drive.google.com/drive/folders/1_9XJ3G57ogWexHlR7LUKQoeMuRbUJ6Wr?usp=sharing)
