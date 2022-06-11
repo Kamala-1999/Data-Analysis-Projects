@@ -21,3 +21,5 @@
 [Olympic Dataset](https://drive.google.com/file/d/14AD0zv62YjmI0pJ4WpKZqtCyc7lavX1Z/view?usp=sharing)
 
 [IMUS DataSet](https://docs.google.com/spreadsheets/d/1LKK5gTjlLarsEWOSmuO7w3XEl5vJ6d8g/edit?usp=sharing&ouid=114201016396779247281&rtpof=true&sd=true)
+
+[Diabetics DataSet](https://drive.google.com/file/d/1ybUz2i1_9FYe3nFiU_tD5ZB5Xa2f4JQC/view?usp=sharing)
